@@ -14,16 +14,6 @@ Aplikasi pencatatan keuangan pribadi premium yang dibangun menggunakan Flutter. 
 
 ---
 
-## 📸 Tampilan Aplikasi (Screenshots)
-
-*(Tambahkan URL screenshot / gambar tampilan aplikasi kamu di sini nantinya)*
-
-| Beranda (Dashboard) | Riwayat Transaksi | Laporan Keuangan |
-| :---: | :---: | :---: |
-| `[Screenshot 1]` | `[Screenshot 2]` | `[Screenshot 3]` |
-
----
-
 ## 🚀 Instalasi & Menjalankan Proyek Secara Lokal
 
 Pastikan Anda sudah menginstal **Flutter SDK** versi terbaru di perangkat Anda.
